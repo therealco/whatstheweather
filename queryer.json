@@ -1,0 +1,4 @@
+{
+    "url": "https://msn.com/en-us/weather/forecast/in-{location}",
+    "object-url-in?": true
+}
